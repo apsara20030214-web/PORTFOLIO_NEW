@@ -13,6 +13,7 @@ export default function Hero() {
         <div className="absolute top-1/2 left-1/4 w-72 h-72 border-2 border-primary/10 rounded-full animate-float" style={{ animationDelay: '1s' }}></div>
       </div>
       
+      
       <div className="max-w-6xl w-full relative z-10">
         {/* Main Content Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
